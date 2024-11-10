@@ -61,7 +61,7 @@ export default function Login() {
               </form>
 
               <p className="mt-6 text-center">
-                Don't have an account?{" "}
+                Dont have an account
                 <a href="/contact" className="text-purple-600 hover:underline">
                   Sign in
                 </a>

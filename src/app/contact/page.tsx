@@ -14,8 +14,8 @@ export default function ContactUs() {
             Get In Touch With Us
           </h2>
           <p className="text-gray-600">
-            Have questions, suggestions, or need assistance? Reach out to us via
-            the form below. We're here to help!
+            Have questions, suggestions, or need assistance, Reach out to us via
+            the form below. We will be here to help
           </p>
         </div>
 
